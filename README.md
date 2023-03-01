@@ -6,4 +6,4 @@ The script converts the bullet points into questions and the text under them int
 
 This script is a useful tool for creating flashcards from pre-existing Word documents, without having to manually create the flashcards. The script is easy to use, simply input the path to the Word document and the script will do the rest. It is also customizable, you can modify the script to suit your needs, for example by adding more formatting options or saving the flashcards to a file.
 
-This script is open source and available on GitHub, you can use it freely and modify it to fit your needs.
+This script is open source, you can use it freely and modify it to fit your needs.
